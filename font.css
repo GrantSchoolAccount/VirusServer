@@ -1,0 +1,13 @@
+<style>
+
+@font-face { font-family: Hacked; src: url("HACKED.TTF"); }
+h1 {
+	font-family: Hacked
+}
+
+@font-face { font-family: Bebas; src: url("BEBAS.TTF"); }
+button {
+	font-family: Bebas
+}
+
+</style>
