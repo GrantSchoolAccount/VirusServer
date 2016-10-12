@@ -1,11 +1,13 @@
 <style>
 
-@font-face { font-family: Hacked; src: url("HACKED.TTF"); }
-h1 {
+@font-face { font-family: Hacked; src: url("hacked.ttf"); }
+p.class1 {
 	font-family: Hacked
+	color: white;
+	font-size: 28;
 }
 
-@font-face { font-family: Bebas; src: url("BEBAS.TTF"); }
+@font-face { font-family: Bebas; src: url("bebas.ttf"); }
 button {
 	font-family: Bebas
 }

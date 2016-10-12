@@ -12,12 +12,11 @@ html {
 
 a {
 	color: red;
-
 }
 
 button {
 	background-color: #555555;
-#	color: red;
+	color: red;
 	box-shadow: 0px 1px 0px 0px 
 	linear-gradient(to bottom, rgb(234, 224, 194), 5%, rgb(204, 194, 166) 100%) repeat 			scroll 0% 0%; 
 	border-radius: 15px; 
