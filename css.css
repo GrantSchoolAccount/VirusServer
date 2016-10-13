@@ -14,6 +14,12 @@ a {
 	color: red;
 }
 
+a.class1 {
+	color: white;
+	font-size: 28;
+	font-family: Downcome, url('downcome.ttf');
+}
+
 button {
 	background-color: #555555;
 	color: red;
