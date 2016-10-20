@@ -20,7 +20,7 @@ body {
     opacity: 0.5;
     width: 75%;
     height: 5000px;
-#   margin: auto;
+    margin: auto;
     padding: 5px;
     font-weight: bold;
     
@@ -28,6 +28,8 @@ body {
 
 li {
     text-align: left;
+    font-weight: bold;
+    float: left;
 }
 
 
