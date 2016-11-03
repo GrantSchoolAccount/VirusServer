@@ -15,11 +15,23 @@ a {
 	color: red;
 }
 
+.ad1 {
+    float: left;
+    padding: 5px;
+}
+
+.ad2 {
+    float: right;
+    padding: 5px;
+    width: 548px;
+    height: 347.25px;
+}
+
 body {
     background-color: white;
-    opacity: 0.5;
+    opacity: 0.75;
     width: 75%;
-    height: 5000px;
+    height: 2250px;
     margin: auto;
     padding: 5px;
     font-weight: bold;
