@@ -16,6 +16,11 @@ html {
     background-attachment: fixed;
 }
 
+.class3 {
+	background-color: black;
+	color: white;
+}
+
 img.class2 {
 	padding: 10px;
 	border: 3px;
@@ -30,6 +35,47 @@ a.class1 {
 	color: white;
 	font-size: 28;
 	font-family: Downcome, url('downcome.ttf');
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #404040;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.active {
+	background-color: #8F8F8F;
+	color: #0D0D0D;
+}
+
+.class3 {
+	background-color: #930000;
+}
+
+.class4 {
+	background-color: #008b13
 }
 
 button {
